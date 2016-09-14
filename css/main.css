@@ -1,0 +1,100 @@
+body{
+	font-family: "Open Sans", Helvetica;
+}
+
+img {
+    width: 100px;
+    height: 65px;
+}
+
+li{
+	list-style: none;
+	color: grey;
+	display:inline-block;
+	text-align: right;
+}
+
+a{
+	float: left;
+	margin-left:10px; 
+}
+
+.menu{
+	background-color: #808080;
+}
+
+p {
+    color: white;
+    height: 35px;
+    padding: 60px;
+	margin-top: -60px;
+}
+
+button{
+	color: white;
+	background-color: #15CCD1;
+	border:none;
+
+}
+
+h1{
+	color: white;
+    width: 100%;
+    height: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.titulo{
+	margin-top: 81px;
+}
+
+h3{
+	color: white;
+	text-align: center;
+}
+
+form{
+	background-color: #9a9a9a;
+	width: 90%;
+	margin: 80px auto;
+	padding: 10px 20px;
+	box-sizing: border-box;
+	font-size: 17px;
+}
+
+input{
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 7px;
+	box-sizing: border-box;
+	font-size: 17px;
+}
+
+#boton{
+	background-color: #3eb0f7;
+	color: white;
+	padding: 20px;
+	border:none;
+	cursor: pointer;
+}
+
+.pie{
+	color: gray;
+}
+
+@media (min-width:320px) and  (max-width: 375px){
+
+}
+
+@media (min-width:376px) and (max-width: 667px){
+
+}
+
+@media (min-width:667px) and  (max-width: 1024px){
+
+}
+
+@media (min-width:1024px) and  (max-width: 1600px){
+
+}	
